@@ -1,5 +1,5 @@
 const share = document.querySelector('.share');
-const button = document.querySelector('#icon');
+const button = document.querySelector('.icon');
 
 button.addEventListener('click', () => {
     share.classList.toggle("active");
