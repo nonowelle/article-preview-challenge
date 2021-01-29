@@ -1,6 +1,5 @@
 # Frontend Mentor - Article preview component
 
-https://article-preview-challenge-git-main.nonowelle.vercel.app/
 
 ## The challenge
 
@@ -16,6 +15,10 @@ The users had to be able to:
 ## Design Goal
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
+
+## Result
+
+https://article-preview-challenge-git-main.nonowelle.vercel.app/
 
 ## Technologies
 * HTML
